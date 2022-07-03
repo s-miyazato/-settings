@@ -1,0 +1,8 @@
+VScode拡張機能
+
+IntelliSense for CSS class names in HTML
+Prettier - Code formatter
+Live Server
+HTML CSS Support
+Beautify css/sass/scss/less
+Highlight Matching Tag

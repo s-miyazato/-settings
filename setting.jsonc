@@ -1,0 +1,178 @@
+{
+  "editor.tabSize": 2,
+  "editor.wordWrap": "on",
+  "editor.fontSize": 14,
+  "workbench.iconTheme": "vscode-icons",
+  "terminal.integrated.persistentSessionReviveProcess": "never",
+  "ruby.intellisense": "rubyLocate",
+  "ruby.useLanguageServer": true,
+  "solargraph.definitions": true,
+  "solargraph.diagnostics": true,
+  "[ruby]": {
+    "editor.tabSize": 2,
+    "editor.insertSpaces": true,
+  },
+  "[java]": {
+    "editor.tabSize": 4,
+    "editor.insertSpaces": true
+  },
+  "[csharp]": {
+    "editor.tabSize": 4,
+    "editor.insertSpaces": true
+  },
+  "[python]": {
+    "editor.tabSize": 2,
+    "editor.insertSpaces": true
+  },
+  "[json]": {
+    "editor.tabSize": 2,
+    "editor.insertSpaces": true,
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
+    "editor.formatOnSave": true
+  },
+  "[html]": {
+    "editor.tabSize": 2,
+    "editor.insertSpaces": true,
+    "editor.formatOnSave": true,
+  },
+  "[css]": {
+    "editor.defaultFormatter": "michelemelluso.code-beautifier",
+    // "editor.formatOnSave": true,
+    "editor.tabSize": 2,
+    "editor.formatOnSave": true
+  },
+  "[sass]": {
+    "editor.defaultFormatter": "michelemelluso.code-beautifier",
+    // "editor.formatOnSave": true,
+    "editor.tabSize": 2,
+    "editor.formatOnSave": true
+  },
+  "[scss]": {
+    "editor.defaultFormatter": "michelemelluso.code-beautifier",
+    // "editor.formatOnSave": true,
+    "editor.tabSize": 2,
+    "editor.formatOnSave": true
+  },
+  "[javascript]": {
+    "editor.tabSize": 2,
+    "editor.insertSpaces": true
+  },
+  "[php]": {
+    "editor.tabSize": 4,
+    "editor.insertSpaces": true,
+    "editor.defaultFormatter": "bmewburn.vscode-intelephense-client",
+    // "editor.defaultFormatter": "esbenp.prettier-vscode",
+    // "editor.formatOnSave": true
+  },
+  "[typescript]": {
+    "editor.tabSize": 2,
+    "editor.insertSpaces": true
+  },
+  "editor.formatOnPaste": true,
+  "workbench.startupEditor": "none",
+  "liveServer.settings.donotShowInfoMsg": true,
+  "liveServer.settings.useLocalIp": true,
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "html.format.wrapLineLength": 0,
+  "emmet.variables": {
+    "lang": "ja"
+  },
+  "files.associations": {
+    "*.erb": "erb"
+  },
+  "emmet.includeLanguages": {
+    "django-html": "html",
+    "erb": "html"
+  },
+  "security.workspace.trust.untrustedFiles": "open",
+  "editor.semanticTokenColorCustomizations": {},
+  "editor.fontLigatures": false,
+  "editor.rulers": [],
+  "editor.quickSuggestions": {
+    "other": "on",
+    "comments": "off",
+    "strings": "off"
+  },
+  "editor.codeActionsOnSave": {},
+  "workbench.colorTheme": "Quiet Light",
+  "intelephense.stubs": [
+    "apache",
+    "bcmath",
+    "bz2",
+    "calendar",
+    "com_dotnet",
+    "Core",
+    "ctype",
+    "curl",
+    "date",
+    "dba",
+    "dom",
+    "enchant",
+    "exif",
+    "FFI",
+    "fileinfo",
+    "filter",
+    "fpm",
+    "ftp",
+    "gd",
+    "gettext",
+    "gmp",
+    "hash",
+    "iconv",
+    "imap",
+    "intl",
+    "json",
+    "ldap",
+    "libxml",
+    "mbstring",
+    "meta",
+    "mysqli",
+    "oci8",
+    "odbc",
+    "openssl",
+    "pcntl",
+    "pcre",
+    "PDO",
+    "pdo_ibm",
+    "pdo_mysql",
+    "pdo_pgsql",
+    "pdo_sqlite",
+    "pgsql",
+    "Phar",
+    "posix",
+    "pspell",
+    "readline",
+    "Reflection",
+    "session",
+    "shmop",
+    "SimpleXML",
+    "snmp",
+    "soap",
+    "sockets",
+    "sodium",
+    "SPL",
+    "sqlite3",
+    "standard",
+    "superglobals",
+    "sysvmsg",
+    "sysvsem",
+    "sysvshm",
+    "tidy",
+    "tokenizer",
+    "xml",
+    "xmlreader",
+    "xmlrpc",
+    "xmlwriter",
+    "xsl",
+    "Zend OPcache",
+    "zip",
+    "zlib",
+    "wordpress"
+  ],
+  "dartsass.sassBinPath": "node_modules/sass/sass.js",
+  "[jsonc]": {
+    "editor.defaultFormatter": "vscode.json-language-features"
+  },
+  "files.autoSave": "afterDelay",
+  "liveSassCompile.settings.autoprefix": []
+}
