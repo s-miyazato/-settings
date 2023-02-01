@@ -1,4 +1,4 @@
-VScode拡張機能
+## VScode拡張機能
 
 IntelliSense for CSS class names in HTML
 Prettier - Code formatter
@@ -6,3 +6,15 @@ Live Server
 HTML CSS Support
 Beautify css/sass/scss/less
 Highlight Matching Tag
+Format HTML in PHP
+Git History
+IntelliSense for CSS class names in HTML
+JavaScript (ES6) code snippets
+WordPress Snippets
+
+## Chrome拡張機能
+Octotree - GitHub code tree
+ato-ichinen
+Page load time
+Quick Javascript Switcher
+TDK Meta Checker

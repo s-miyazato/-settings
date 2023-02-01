@@ -80,3 +80,8 @@ source ~/.zsh/zsh-autosuggestions/zsh-autosuggestions.zsh
 
 PROMPT='[%B%F{red}%n@%m%f%b:%F{green}%~%f]%F{cyan}$vcs_info_msg_0_%f
 %F{yellow}$%f '
+
+# rbenvのパスを通す
+export PATH="$HOME/.rbenv/bin:$PATH"
+eval "$(rbenv init -)"
+eval "$(rbenv init -)"
